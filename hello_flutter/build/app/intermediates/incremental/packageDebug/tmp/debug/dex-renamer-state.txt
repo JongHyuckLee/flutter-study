@@ -1,0 +1,4 @@
+#Sun Nov 12 22:46:12 KST 2023
+base.0=/Users/ijonghyeog/Desktop/flutter/hello_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
